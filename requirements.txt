@@ -4,3 +4,4 @@ notebook
 seaborn
 scikit-learn
 pymongo[srv]
+dvc
